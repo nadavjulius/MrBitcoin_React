@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/MrBitcoin_React/static/css/main.464b4139.chunk.css",
+    "main.js": "/MrBitcoin_React/static/js/main.c3467861.chunk.js",
+    "main.js.map": "/MrBitcoin_React/static/js/main.c3467861.chunk.js.map",
+    "runtime-main.js": "/MrBitcoin_React/static/js/runtime-main.6743fa03.js",
+    "runtime-main.js.map": "/MrBitcoin_React/static/js/runtime-main.6743fa03.js.map",
+    "static/css/2.cd751d61.chunk.css": "/MrBitcoin_React/static/css/2.cd751d61.chunk.css",
+    "static/js/2.b64bbf30.chunk.js": "/MrBitcoin_React/static/js/2.b64bbf30.chunk.js",
+    "static/js/2.b64bbf30.chunk.js.map": "/MrBitcoin_React/static/js/2.b64bbf30.chunk.js.map",
+    "index.html": "/MrBitcoin_React/index.html",
+    "precache-manifest.a4ef1102ca54de459de015d3d7e1e861.js": "/MrBitcoin_React/precache-manifest.a4ef1102ca54de459de015d3d7e1e861.js",
+    "service-worker.js": "/MrBitcoin_React/service-worker.js",
+    "static/css/2.cd751d61.chunk.css.map": "/MrBitcoin_React/static/css/2.cd751d61.chunk.css.map",
+    "static/css/main.464b4139.chunk.css.map": "/MrBitcoin_React/static/css/main.464b4139.chunk.css.map",
+    "static/js/2.b64bbf30.chunk.js.LICENSE.txt": "/MrBitcoin_React/static/js/2.b64bbf30.chunk.js.LICENSE.txt",
+    "static/media/growth-chart.png": "/MrBitcoin_React/static/media/growth-chart.03e45fc5.png",
+    "static/media/illustration-intro.png": "/MrBitcoin_React/static/media/illustration-intro.526544ae.png",
+    "static/media/petertheil.JPG": "/MrBitcoin_React/static/media/petertheil.febe1ea7.JPG",
+    "static/media/unknown.png": "/MrBitcoin_React/static/media/unknown.224247e6.png",
+    "static/media/wallet.png": "/MrBitcoin_React/static/media/wallet.77192ef0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6743fa03.js",
+    "static/css/2.cd751d61.chunk.css",
+    "static/js/2.b64bbf30.chunk.js",
+    "static/css/main.464b4139.chunk.css",
+    "static/js/main.c3467861.chunk.js"
+  ]
+}
